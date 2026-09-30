@@ -46,13 +46,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=izdannychu&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/izdannychu/izdannychu/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+
   <img src="https://raw.githubusercontent.com/izdannychu/izdannychu/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<!-- <br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izdannychu/izdannychu/pacman-output/galaga-contribution-graph-dark.svg">
